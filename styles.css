@@ -4,11 +4,14 @@ body {
   
   h1 {
     color: rgb(58, 58, 158);
+    fontsize: 40px;
+    font-family: 'Georgia', Times New Roman, Times, serif;
     text-align: center;
   }
   h2 {
       color: rgb(58, 58, 158);
-      font-family: 'georgia', times new roman;
+      font-size: 30px;
+      font-family: 'Georgia', Times New Roman, Times, serif;
       text-align: center;
   }
   
